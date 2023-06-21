@@ -86,7 +86,7 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 0px;
-    gap: 40px;
+    gap: 22.06px;
 
     width: 264px;
     height: 48px;
@@ -96,9 +96,12 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 0px;
-    gap: 40px;
+    gap: 22.06px;
 
     width: 264px;
     height: 48px;
 }
 
+.background {
+    
+}
